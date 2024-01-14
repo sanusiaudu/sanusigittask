@@ -11,5 +11,5 @@ git rebase is a Git command that helps you clean up and organize your commit his
 the command for it is git rebase -i HEAD~number of commit to include
 
 git cherry-pick is a Git command that allows you to pick and apply specific commits from one branch and add them to another branch.
-the command for it is git cherry-pick <the commit want to pick>
+the command for it is git cherry-pick the commit want to pick
 
